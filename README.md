@@ -102,10 +102,10 @@ The system tracks and visualizes:
 
 🚀 Getting Started
 
-    Install required dependencies:
-    bash
+Install required dependencies:
+bash
 
-pip install pandas matplotlib tkinter tqdm tabulate
+    pip install pandas matplotlib tkinter tqdm tabulate
 
 Prepare input CSV files:
 
