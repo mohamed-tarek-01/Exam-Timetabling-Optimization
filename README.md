@@ -13,18 +13,19 @@ This project implements a Genetic Algorithm (GA) solution for generating optimal
 
 The system features both traditional evolutionary approaches and an advanced co-evolution strategy.<br>
     
-🖼 Screenshots
-![Screenshot 2025-05-16 221347](https://github.com/user-attachments/assets/e445e314-b4a5-4ccb-8ef8-b5b07a08c95b)
+🖼 Screenshots<br>
 
-![Screenshot 2025-05-16 221403](https://github.com/user-attachments/assets/0db09892-afd0-40d6-a3fe-a5640b3b12f6)
+![Screenshot 2025-05-16 221347](https://github.com/user-attachments/assets/d900cb29-d5c1-4dd4-8335-f083537fb36c)
 
-![Screenshot 2025-05-16 221419](https://github.com/user-attachments/assets/3d70eb28-4b83-4312-b249-bf56fb153155)
+![Screenshot 2025-05-16 221403](https://github.com/user-attachments/assets/d8e11656-f93c-4265-b9d6-a50ea816ad12)
 
-![Screenshot 2025-05-16 221447](https://github.com/user-attachments/assets/23861ffc-ed34-4bf0-b759-7111eb9ebcdf)
+![Screenshot 2025-05-16 221458](https://github.com/user-attachments/assets/3efd4eda-5e9a-49d9-9965-b721b85bd7c9)
 
-![Screenshot 2025-05-16 221458](https://github.com/user-attachments/assets/69c4d593-9480-4ebb-9958-457d16635c60)
+![Screenshot 2025-05-16 221509](https://github.com/user-attachments/assets/93418792-0d09-430f-aba0-13a0a0eb59d4)
 
-![Screenshot 2025-05-16 221509](https://github.com/user-attachments/assets/a0299ee1-68d3-4d98-a4dc-5b63f4ab3f40)
+![Screenshot 2025-05-16 221419](https://github.com/user-attachments/assets/370177cd-19af-4ba1-b775-f898afe5b072)
+
+![Screenshot 2025-05-16 221447](https://github.com/user-attachments/assets/ebd15f59-de84-47d9-9c8c-a7b8f2ea9718)
 
 
 
