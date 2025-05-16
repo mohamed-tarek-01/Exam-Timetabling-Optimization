@@ -102,7 +102,7 @@ The system tracks and visualizes:
 
 🚀 Getting Started
 
-Install required dependencies:
+Install required dependencies:<br>
 bash
 
     pip install pandas matplotlib tkinter tqdm tabulate
@@ -123,7 +123,7 @@ Prepare input CSV files:
 
     lecturers_courses.csv
 
-Run the application:
+Run the application:<br>
 bash
 
     python main.py
