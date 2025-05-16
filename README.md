@@ -12,18 +12,19 @@ This project implements a Genetic Algorithm (GA) solution for generating optimal
     Timeslot management
 
 The system features both traditional evolutionary approaches and an advanced co-evolution strategy.
-🖼 Screenshots
-![Screenshot 2025-05-16 221347](https://github.com/user-attachments/assets/e445e314-b4a5-4ccb-8ef8-b5b07a08c95b)
-
-![Screenshot 2025-05-16 221403](https://github.com/user-attachments/assets/0db09892-afd0-40d6-a3fe-a5640b3b12f6)
-
-![Screenshot 2025-05-16 221419](https://github.com/user-attachments/assets/3d70eb28-4b83-4312-b249-bf56fb153155)
-
-![Screenshot 2025-05-16 221447](https://github.com/user-attachments/assets/23861ffc-ed34-4bf0-b759-7111eb9ebcdf)
-
-![Screenshot 2025-05-16 221458](https://github.com/user-attachments/assets/69c4d593-9480-4ebb-9958-457d16635c60)
-
-![Screenshot 2025-05-16 221509](https://github.com/user-attachments/assets/a0299ee1-68d3-4d98-a4dc-5b63f4ab3f40)
+    
+    🖼 Screenshots
+    ![Screenshot 2025-05-16 221347](https://github.com/user-attachments/assets/e445e314-b4a5-4ccb-8ef8-b5b07a08c95b)
+    
+    ![Screenshot 2025-05-16 221403](https://github.com/user-attachments/assets/0db09892-afd0-40d6-a3fe-a5640b3b12f6)
+    
+    ![Screenshot 2025-05-16 221419](https://github.com/user-attachments/assets/3d70eb28-4b83-4312-b249-bf56fb153155)
+    
+    ![Screenshot 2025-05-16 221447](https://github.com/user-attachments/assets/23861ffc-ed34-4bf0-b759-7111eb9ebcdf)
+    
+    ![Screenshot 2025-05-16 221458](https://github.com/user-attachments/assets/69c4d593-9480-4ebb-9958-457d16635c60)
+    
+    ![Screenshot 2025-05-16 221509](https://github.com/user-attachments/assets/a0299ee1-68d3-4d98-a4dc-5b63f4ab3f40)
 
 
 
