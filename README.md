@@ -126,7 +126,7 @@ Prepare input CSV files:
 Run the application:
 bash
 
-    python ea_project.py
+    python main.py
 
 📚 Documentation
 
