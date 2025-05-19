@@ -1,4 +1,4 @@
-# Exam-Timetabling-Optimization - Genetic Algorithm Solution
+# Exam Timetabling Optimization - Genetic Algorithm Solution
 📝 Project Overview
 
 This project implements a Genetic Algorithm (GA) solution for generating optimal exam timetables, addressing the complex constraints of:
